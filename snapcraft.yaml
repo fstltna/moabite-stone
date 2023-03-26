@@ -1,4 +1,4 @@
-name: word-deluxe
+name: moabite-stone
 title: Moabite Stone
 version: "1.0.0"
 summary:  Moabite Stone Match 3
@@ -6,7 +6,7 @@ description: |
   Moabite Stone Match 3
 
 grade: stable
-icon: mstone_icon.png
+icon: moabite-stone_icon.png
 
 base: core18
 confinement: strict
